@@ -1,0 +1,40 @@
+/* Start main rules*/
+.container{
+    width: 30em;
+    margin: auto;
+    height: 38em;
+    border:cadetblue 0.2em solid;
+    border-radius: 2em;
+    margin-top: 0.3em;
+    padding-top: 3em;
+   
+}
+/*End main rules */
+/* Start body */
+.center{
+    margin-top: 9em;
+}
+.tour{
+    color: royalblue;
+    font-size: 3em;
+    text-align: center;
+}
+.thanks{
+    color: gray;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+    color: royalblue;
+    font-size: 1.2em;
+    margin-left: 9em;
+}
+a:hover{
+    color: saddlebrown;
+}
+
+/* End Body */

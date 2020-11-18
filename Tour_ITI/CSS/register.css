@@ -1,0 +1,54 @@
+/* Start main rules*/
+.container{
+    width: 30em;
+    margin: auto;
+    height: 38em;
+    border:cadetblue 0.2em solid;
+    border-radius: 2em;
+    margin-top: 0.3em;
+   
+}
+/*End main rules */
+/* Start body */
+
+.container div .name{
+    color: #0DA1E2;
+    font-size: 3em;
+    margin: 1em 0 1em 3.8em;
+}
+.container form{
+    text-align: center;
+    width: 13em;
+    margin: auto;
+
+}
+.container form label{
+    padding-bottom: 0.5em;
+    float: left;
+    color:#1183CA;
+    font-size: 1.1em;
+}
+.container form input{
+    margin-bottom: 2em;
+    border-color:cadetblue;
+    float: left;
+}
+.container form button{
+    margin: 1em 3em 1.5em 0.1em;
+    color: royalblue;
+    border: royalblue solid 0.15em;
+}
+.container form a{
+    text-decoration: none;
+    color: #1183CA;
+    margin-right: 1.5em;
+}
+.container form a:hover{
+    color: saddlebrown;
+}
+.container form .copy{
+    color: lightslategray;
+    padding-left: 1em;
+    padding-top: 2em;
+}
+/* End body */
